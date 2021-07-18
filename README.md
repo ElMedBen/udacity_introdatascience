@@ -11,6 +11,9 @@ The purpose of this project is to apply the CRISP-DM process to study listings d
 * 5.Results
 * 6.Deploy
 
+A blog post was made on medium to present the overral procedure and some of the results : 
+[My blog post link !](https://medium.com/@medi.account/my-first-data-science-blog-post-airbnb-and-linear-regression-c8ceaa0a2c91)
+
 We will try to evaluate the given data and to fill in each step of the CRISP-DM to practice our skills and to learn more about data science .
 
 ## Installation 
